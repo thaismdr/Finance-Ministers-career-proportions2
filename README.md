@@ -1,4 +1,4 @@
-# Finance-Ministers-career-proportions2Repository of the codes for the line graphs on the Brazilian finance ministers' career proportions over time using ggplot2, reshape2 and gridExtra under R.
+# Repository of the codes for the line graphs on the Brazilian finance ministers' career proportions over time using ggplot2, reshape2 and gridExtra under R.
 
 # For the carreira_prop.csv file consider:
 # "ano_entrada" refers to the year of appointment to office for each minister, working as their identifier.
